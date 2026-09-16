@@ -1,0 +1,23 @@
+{
+  "repo": "intelbras-media-player-full",
+  "product": "Intelbras Media Player Full",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "media-player",
+  "topics": [
+    "intelbras-player",
+    "security-playback-desk",
+    "video-wall-windows",
+    "intelbras-2026",
+    "how-to-install-intelbras-player",
+    "intelbras-desktop-package",
+    "clip-export-suite",
+    "ptz-layout-tools",
+    "nvr-review-desk",
+    "intelbras-media-suite"
+  ],
+  "site": "toolix.me"
+}
